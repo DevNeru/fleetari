@@ -40,4 +40,4 @@ client.on("message", async message => {
 
 });
 
-client.login(proces.env.token);
+client.login(process.env.token);
